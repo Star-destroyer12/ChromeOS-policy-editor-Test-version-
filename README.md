@@ -2,7 +2,7 @@ IN ORDER TO DO THIS ON A MANAGED CHROMEBOOK, YOU MUST FIRST USE SH1MMER.
 
 NOTE:
 
-You must be in developer mode with RootFS verification disabled. Muct be on ChromeOS version 116 or earlier unless you are willing to make the image yourself.
+You must be in developer mode with RootFS verification disabled. Must be on ChromeOS version 116 or earlier unless you are willing to make the image yourself.
 
 NOTE 2:
 
