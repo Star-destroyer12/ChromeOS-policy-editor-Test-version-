@@ -18,7 +18,7 @@ Open crosh,
 
 shell, 
 
-root, 
+sudo -i, 
 
 cd .. , 
 
