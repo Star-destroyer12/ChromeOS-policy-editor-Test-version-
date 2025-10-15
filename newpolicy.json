@@ -14,6 +14,7 @@
   "CrostiniAllowed": true,
   "CrostiniExportImportUIAllowed": true,
   "CrostiniPortForwardingAllowed": true,
+  "DeviceAllowNewUsers": true, 
   "ExternalStorageDisabled": false,
   "ExternalStorageReadOnly": false,
   "LacrosAvailability": "user_choice",
@@ -92,5 +93,6 @@
   "DnsOverHttpsMode": null,
   "EditBookmarksEnabled": true,
   "JavaScriptBlockedForUrls": [],
-  "ReportDeviceBootMode": false
+  "ReportDeviceBootMode": false,
+  "DeviceBlockDevmode": false
 }
