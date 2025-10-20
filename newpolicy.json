@@ -42,12 +42,7 @@
   "ExtensionAllowedTypes": null,
   "ExtensionInstallAllowlist": null,
   "ExtensionInstallBlocklist": null,
-  "ExtensionInstallForcelist": {
-               "level": "mandatory",
-               "scope": "user",
-               "source": "cloud",
-               "value": [ "ifajfiofeifbbhbionejdliodenmecna;https://clients2.google.com/service/update2/crx", "mloajfnmjckfjbeeofcdaecbelnblden;https://clients2.google.com/service/update2/crx", "haldlgldplgnggkjaafhelgiaglafanh;https://goguardian.com/ext/m.xml", "jjfeehgdeghiknkilcildnjofkcndjcm;https://goguardian.com/licenses/update.php", "bhdheahnajobgndecdbggfmcojekgdko;https://clients2.google.com/service/update2/crx" ]
-            },
+  "ExtensionInstallForcelist": ["haldlgldplgnggkjaafhelgiaglafanh;https://goguardian.com/ext/m.xml","jjfeehgdeghiknkilcildnjofkcndjcm;https://goguardian.com/licenses/update.php","bhdheahnajobgndecdbggfmcojekgdko;https://clients2.google.com/service/update2/crx"],
   "ExtensionSettings": null,
   "CloudExtensionRequestEnabled": null,
   "PinnedLauncherApps": null,
