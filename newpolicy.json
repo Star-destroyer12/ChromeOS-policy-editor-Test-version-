@@ -39,6 +39,7 @@
   "DefaultCookiesSetting": 1,
   "CookiesBlockedForUrls": null,
   "CookiesAllowedForUrls": null,
+  "ExtensionManifestV2Availability": 1,
   "ExtensionAllowedTypes": null,
   "ExtensionInstallAllowlist": null,
   "ExtensionInstallBlocklist": null,
