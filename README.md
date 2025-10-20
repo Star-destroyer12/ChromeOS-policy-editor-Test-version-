@@ -22,7 +22,7 @@ sudo -i,
 
 cd .. , 
 
-cd /etc/opt/chrome/policies/, 
+cd /etc/opt/chrome/policies/managed, 
 
 Ls, 
 
@@ -30,7 +30,7 @@ cd managed (or whatever it says),
 
 Ls, 
 
-curl -o https://raw.githubusercontent.com/StarkMist111960/ChromeOS-policy-editor-Test-version-/refs/heads/main/newpolicy.json (Or your github raw user content),
+curl -O https://github.com/Star-destroyer12/ChromeOS-policy-editor-Test-version-/blob/main/newpolicy.json
 
 cat newpolicy.json > policy.json
 
