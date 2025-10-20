@@ -44,6 +44,7 @@
   "ExtensionInstallBlocklist": null,
   "ExtensionInstallForcelist": ["haldlgldplgnggkjaafhelgiaglafanh;https://goguardian.com/ext/m.xml","jjfeehgdeghiknkilcildnjofkcndjcm;https://goguardian.com/licenses/update.php","bhdheahnajobgndecdbggfmcojekgdko;https://clients2.google.com/service/update2/crx"],
   "ExtensionSettings": null,
+  "ExtensionManifestV2Availability": 1,
   "CloudExtensionRequestEnabled": null,
   "PinnedLauncherApps": null,
   "BookmarkBarEnabled": null,
