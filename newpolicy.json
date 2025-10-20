@@ -42,12 +42,26 @@
   "ExtensionAllowedTypes": null,
   "ExtensionInstallAllowlist": null,
   "ExtensionInstallBlocklist": null,
-  "ExtensionInstallForcelist": ["haldlgldplgnggkjaafhelgiaglafanh;https://goguardian.com/ext/m.xml","jjfeehgdeghiknkilcildnjofkcndjcm;https://goguardian.com/licenses/update.php","bhdheahnajobgndecdbggfmcojekgdko;https://clients2.google.com/service/update2/crx"],
+  "ExtensionInstallForcelist": {
+               "level": "mandatory",
+               "scope": "user",
+               "source": "cloud",
+               "value": [ "ifajfiofeifbbhbionejdliodenmecna;https://clients2.google.com/service/update2/crx", "mloajfnmjckfjbeeofcdaecbelnblden;https://clients2.google.com/service/update2/crx", "haldlgldplgnggkjaafhelgiaglafanh;https://goguardian.com/ext/m.xml", "jjfeehgdeghiknkilcildnjofkcndjcm;https://goguardian.com/licenses/update.php", "bhdheahnajobgndecdbggfmcojekgdko;https://clients2.google.com/service/update2/crx" ]
+            },
   "ExtensionSettings": null,
   "CloudExtensionRequestEnabled": null,
   "PinnedLauncherApps": null,
   "BookmarkBarEnabled": null,
   "LidCloseAction": null,
+   "DeviceWallpaperImage": {
+               "level": "mandatory",
+               "scope": "machine",
+               "source": "cloud",
+               "value": {
+                  "hash": "8239a0818fa8f46019bc8580fec1735ee348594db59ace493408f1e8818c1396",
+                  "url": "https://storage.googleapis.com/chromeos-mgmt/0gjdgxs2l87432/ChromeOsWallpaper/80df87ef-34dc-42bc-b361-7326d373f3b1"
+               }
+            },
   "ChromeOsLockOnIdleSuspend": null,
   "PowerManagementIdleSettings": null,
   "ShowFullUrlsInAddressBar": null,
