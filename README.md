@@ -30,7 +30,7 @@ cd managed (or whatever it says),
 
 Ls, 
 
-curl -O https://github.com/Star-destroyer12/ChromeOS-policy-editor-Test-version-/blob/main/newpolicy.json
+curl -O https://raw.githubusercontent.com/Star-destroyer12/ChromeOS-policy-editor-Test-version-/refs/heads/main/newpolicy.json
 
 cat newpolicy.json > policy.json
 
