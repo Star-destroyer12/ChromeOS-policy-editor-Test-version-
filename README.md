@@ -25,6 +25,7 @@ cd .. ,
 cd /etc/opt/chrome/policies/managed, 
 
 Ls, 
+touch pollen.json
 
 cd managed (or whatever it says), 
 
